@@ -2,6 +2,8 @@
 ```
 AdobeHack roba todo lo que es documento de Adobe y las copia a una USB cuando la victima lo ejecute la aplicación.
 ```
+
+![](https://raw.githubusercontent.com/Pericena/AdobeHack/master/Imagenes/lpericena%20Adobe.png)
 - MAS INFORMACIÓN https://lpericena.blogspot.com/2017/12/adobehack.html
 
 ## Comenzando 🚀
