@@ -45,7 +45,7 @@ Aclarar que tambien tiene una opcion para que puedan ordenarse los archivos en u
 ### Y las pruebas de estilo de codificación ⌨️
 
 ```
-Puede demorar no mas de 2 minutos el escaneo, es un antivirus que puedes llevarlo en un usb , como dirian un software de bolsillo
+Puede demorar no mas de 2 minutos el escaneo
 ```
 
 ## Deployment 📦
